@@ -1,17 +1,5 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    ft_hello_garden.py                                 :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: lunsold <lunsold@student.42.fr>            +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2026/01/13 16:02:39 by lunsold           #+#    #+#              #
-#    Updated: 2026/01/13 17:54:47 by lunsold          ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 def ft_hello_garden():
-	garden = "Garden Community!"
-	print(f"Hello, {garden}")
-	pass
-
+    """Print a greeting message for the garden community."""
+    garden = "Garden Community!"
+    print(f"Hello, {garden}")
+    pass

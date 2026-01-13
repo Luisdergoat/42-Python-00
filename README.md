@@ -13,13 +13,13 @@
 
 ## 📋 Inhaltsverzeichnis
 
-1. ex0(https://github.com/Luisdergoat/42-Python-00/tree/main/ex1)
-2. ex2(https://github.com/Luisdergoat/42-Python-00/tree/main/ex2)
-3. ex3(https://github.com/Luisdergoat/42-Python-00/tree/main/ex3)
-4. ex4(https://github.com/Luisdergoat/42-Python-00/tree/main/ex4)
-5. ex5(https://github.com/Luisdergoat/42-Python-00/tree/main/ex5)
-6. ex6(https://github.com/Luisdergoat/42-Python-00/tree/main/ex6)
-7. ex7(https://github.com/Luisdergoat/42-Python-00/tree/main/ex7)
+1. [ex0](https://github.com/Luisdergoat/42-Python-00/tree/main/ex1)
+2. [ex2](https://github.com/Luisdergoat/42-Python-00/tree/main/ex2)
+3. [ex3](https://github.com/Luisdergoat/42-Python-00/tree/main/ex3)
+4. [ex4](https://github.com/Luisdergoat/42-Python-00/tree/main/ex4)
+5. [ex5](https://github.com/Luisdergoat/42-Python-00/tree/main/ex5)
+6. [ex6](https://github.com/Luisdergoat/42-Python-00/tree/main/ex6)
+7. [ex7](https://github.com/Luisdergoat/42-Python-00/tree/main/ex7)
 ---
 
 ## Struktur
